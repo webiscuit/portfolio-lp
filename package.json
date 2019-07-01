@@ -10,11 +10,21 @@
     "start": "nuxt start",
     "generate": "nuxt generate"
   },
+  "browserslist": [
+    "last 2 versions"
+  ],
   "dependencies": {
     "nuxt": "^2.0.0"
   },
   "devDependencies": {
-    "tailwindcss": "^1.0.0",
-    "nodemon": "^1.18.9"
+    "nodemon": "^1.18.9",
+    "postcss-calc": "^7.0.1",
+    "postcss-import": "^12.0.1",
+    "postcss-nested": "^4.1.2",
+    "postcss-preset-env": "^6.6.0",
+    "postcss-short": "^5.0.0",
+    "pug": "^2.0.3",
+    "pug-plain-loader": "^1.0.0",
+    "tailwindcss": "^1.0.0"
   }
 }

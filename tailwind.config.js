@@ -1,6 +1,9 @@
-// See default config https://github.com/tailwindcss/tailwindcss/blob/master/stubs/defaultConfig.stub.js
 module.exports = {
   theme: {
+    fontFamily: {
+      display: ['Josefin Sans', 'sans-serif'],
+      body: ['Open Sans', 'cursive'],
+    },
     extend: {}
   },
   variants: {}
