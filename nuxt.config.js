@@ -5,10 +5,11 @@ export default {
   ** Headers of the page
   */
   head: {
-    title: 'Webiscuit - Hiromi Kozai',
+    title: 'webiscuit - Hiromi Kozai',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
+      { name: 'robots', content: 'noindex, nofollow' },
       { hid: 'description', name: 'description', content: process.env.npm_package_description || '' }
     ],
     link: [
