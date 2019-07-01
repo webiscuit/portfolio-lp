@@ -10,6 +10,8 @@
         i.fab.fa-codepen
       li.m-3: a(href="https://www.facebook.com/hiromir13" target="_blank")
         i.fab.fa-facebook-square
+      li.m-3: a(href="https://qiita.com/hiromir13" target="_blank")
+        i.fas.fa-pencil-alt
       li.m-3: a(href="mailto:info@webiscuit.jp")
         i.fas.fa-envelope-open
 </template>
