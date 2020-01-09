@@ -12,7 +12,7 @@
         i.fab.fa-facebook-square
       li.m-3: a(href="https://qiita.com/hiromir13" target="_blank")
         i.fas.fa-pencil-alt
-      li.m-3: a(href="mailto:info@webiscuit.jp")
+      li.m-3: a(href="mailto:hiromi.k013@gmail.com")
         i.fas.fa-envelope-open
 </template>
 
